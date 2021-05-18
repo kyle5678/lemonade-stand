@@ -1,0 +1,13 @@
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.exe
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.deps.json
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.runtimeconfig.json
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.runtimeconfig.dev.json
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.dll
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\bin\Debug\netcoreapp3.1\LemonadeStand.pdb
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.csprojAssemblyReference.cache
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.AssemblyInfoInputs.cache
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.AssemblyInfo.cs
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.csproj.CoreCompileInputs.cache
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.dll
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.pdb
+C:\Users\aklin\source\repos\LemonadeStand\LemonadeStand\obj\Debug\netcoreapp3.1\LemonadeStand.genruntimeconfig.cache
